@@ -1,0 +1,14 @@
+{
+  "im_host": "127.0.0.1",
+  "im_port": 8000,
+  "max_clients": 10,
+  "db_config": {
+    "db_host": "127.0.0.1",
+    "db_port": 3306,
+    "username": "root",
+    "password": "123456",
+    "db_name": "im",
+    "max_idle_conns": 10,
+    "max_open_conns": 50
+  }
+}
